@@ -4,4 +4,5 @@ _Around the World in X Wikipedia Articles_ - generating a 50,000 word novel usin
 #Output
 
 First edition: http://kevan.org/nanogenmo/2015firstedition.html (1.2Mb)
+
 Second edition: http://kevan.org/nanogenmo/2015secondedition.html (723k)
