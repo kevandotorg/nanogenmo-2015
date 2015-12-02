@@ -3,6 +3,10 @@ _Around the World in X Wikipedia Articles_ - generating a 50,000 word novel usin
 
 The first edition includes a wayfinding bug where the narrator passed the New York checkpoint without triggering it, and was left to circle the globe until the script ran out of memory and crashed. The second edition was generated after a small post-November bugfix.
 
+First edition: http://kevan.org/nanogenmo/2015firstedition.html (108,850 words, 1.2Mb)
+
+Second edition: http://kevan.org/nanogenmo/2015secondedition.html (117,303 words, 723k)
+
 #Sample text
 
 Thunder cracked in the distance as we approached St George's Cathedral, Southwark. Unless I was very much mistaken, this was caused by incendiary bombing Opened in 1848. I remembered it was designed by Augustus Pugin. It seemed quite suitable for the Convocations of the Academy of Saint Cecilia. We noted copyright material being used.
@@ -13,8 +17,3 @@ Thunder cracked in the distance as we approached St George's Cathedral, Southwar
 
   We wandered to Elephant & Castle tube station. Imagine my surprise to learn it was approved on 25 July 1890! Passepartout asked me if it was given of a private bill that would be presented to Parliament for the construction of the BS&WR, but I did not know. It seemed handy for the Bakerloo line. We took advantage of the most direct access to the Bakerloo line. 
 
-#Output
-
-First edition: http://kevan.org/nanogenmo/2015firstedition.html (1.2Mb)
-
-Second edition: http://kevan.org/nanogenmo/2015secondedition.html (723k)
