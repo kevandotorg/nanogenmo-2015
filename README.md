@@ -1,11 +1,11 @@
 # nanogenmo-2015
 _Around the World in X Wikipedia Articles_ - generating a 50,000 word novel using Wikipedia's API to pull out location coordinates and descriptions. Written for NaNoGenMo 2015.
 
-The first edition includes a wayfinding bug where the narrator passed the New York checkpoint without triggering it, and was left to circle the globe until the script ran out of memory and crashed. The second edition was generated after a small post-November bugfix.
-
 First edition: http://kevan.org/nanogenmo/2015firstedition.html (108,850 words, 1.2Mb)
 
 Second edition: http://kevan.org/nanogenmo/2015secondedition.html (117,303 words, 723k)
+
+The first edition includes a wayfinding bug where the narrator passed the New York checkpoint without triggering it, and was left to circle the globe until the script ran out of memory and crashed. The second edition was generated after a small post-November bugfix.
 
 #Sample text
 
