@@ -59,7 +59,7 @@ travelTo("Reform Club");
 in full in each paragraph, as well as the biography articles of the subjects of any statues mentioned. The story takes a route passing through the <a 
 href="http://www.kmjn.org/notes/geographically_dense_wikipedia.html">ten most Wikipedia-documented metropolitan areas</a>, and was run through a generative script written by <a 
 href="http://kevan.org">Kevan Davis</a> for <a href="https://github.com/dariusk/NaNoGenMo-2015">NaNoGenMo</a> in November 2015. The articles' text was made available under a 
-Creative Commons Attribution-ShareAlike License, and the text of this edition is released under that same licence.</p> 
+Creative Commons Attribution-ShareAlike 3.0 Unported Licence, and the text of this edition is released under that same licence.</p> 
 <?
 exit;
 
