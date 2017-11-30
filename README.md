@@ -7,7 +7,7 @@ Second edition: http://kevan.org/nanogenmo/2015secondedition.html (117,303 words
 
 The first edition includes a wayfinding bug where the narrator passed the New York checkpoint without triggering it, and was left to circle the globe until the script ran out of memory and crashed. The second edition was generated after a small post-November bugfix.
 
-#Sample text
+# Sample text
 
 Thunder cracked in the distance as we approached St George's Cathedral, Southwark. Unless I was very much mistaken, this was caused by incendiary bombing Opened in 1848. I remembered it was designed by Augustus Pugin. It seemed quite suitable for the Convocations of the Academy of Saint Cecilia. We noted copyright material being used.
 
